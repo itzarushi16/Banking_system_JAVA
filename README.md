@@ -36,8 +36,6 @@ Follow these steps to set up and run the project on your local machine:
 - JDBC (Java Database Connectivity)
 - MySQL (or your preferred database system)
 
-# 📸 Screenshots
-- Screenshot 1
 
 # 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
